@@ -1,4 +1,5 @@
 // criar um programa que permita calcular a média semestral dos alunos.
+// comentários
 
 import java.util.Scanner;
 
